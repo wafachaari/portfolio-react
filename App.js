@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from "react";
 
-import Navbarclass from "./components/Navbarclass";
-import Home from "./components/Home/Home";
-import About from "./components/About/About";
-import Projects from "./components/Projects/Projects";
-import Footer from "./components/Footer";
+import Navbarclass from "./src/components/Navbarclass";
+import Home from "./src/components/Home/Home";
+import About from "./src/components/About/About";
+import Projects from "./src/components/Projects/Projects";
+import Footer from "./src/components/Footer";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 import "bootstrap/dist/css/bootstrap.min.css";

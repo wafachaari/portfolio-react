@@ -23,11 +23,11 @@ function Home() {
               </h2>
             </Col>
             <Col md={6}>
-              <div class="blobs">
-                <div class="blob" >𝓿𝓪𝓻𝓲𝓮𝓽𝔂</div>
-                <div class="blob">𝓬𝓻𝓮𝓪𝓽𝓲𝓿𝓮</div>
-                <div class="blob">𝓼𝓴𝓲𝓵𝓵𝓼</div>
-                <div class="blob">𝓬𝓱𝓪𝓵𝓵𝓮𝓷𝓰𝓮</div>
+              <div className="blobs">
+                <div className="blob" >𝓿𝓪𝓻𝓲𝓮𝓽𝔂</div>
+                <div className="blob">𝓬𝓻𝓮𝓪𝓽𝓲𝓿𝓮</div>
+                <div className="blob">𝓼𝓴𝓲𝓵𝓵𝓼</div>
+                <div className="blob">𝓬𝓱𝓪𝓵𝓵𝓮𝓷𝓰𝓮</div>
               </div>
 
               <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
