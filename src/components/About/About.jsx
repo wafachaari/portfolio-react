@@ -24,7 +24,7 @@ function About() {
                 <div className="animation">
                    <Animation />
                 </div>
-                 <br></br>⚡Technology is something I have been passionate about for as long as I can remember, so it wasn’t a difficult decision to choose my career.
+                <br></br>⚡Technology is something I have been passionate about for as long as I can remember, so it wasn’t a difficult decision to choose my career.
                 <br></br><br></br>⚡my sense of curiosity and my drive to get things done make me want to develop my own technical solutions.  here is my role, which included identifying problems and gathering requirements from various stakeholders.
                 <br></br><br></br> ⚡Because of my positive mindset, I can cope with time pressure and work with the highest performance to meet deadlines.
                 <br></br><br></br>⚡Over the course of my life, I have developed expertise in several areas of web development. I am seeking to continue this growth by opening myself to opportunities that are guaranteed to challenge me.
