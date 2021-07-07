@@ -1,10 +1,8 @@
 // import React from "react";
 // import ReactDOM from "react-dom";
 // import Container from 'react-bootstrap/Container';
- 
 // import { Provider } from 'react-redux';
 // import App from "./App";
-
 // class Portfolio extends React.Component {
 //   render() {
 //     return (
